@@ -3,4 +3,4 @@ This repository contains code used to estimate the impact of rotavirus vaccinati
 
 https://doi.org/10.1016/j.vaccine.2022.09.072
 
-Due to data sharing restrictions, vaccine coverage inputs and data used to estimate the mean age of first severe infection are not included in this repository. 
+Due to data sharing restrictions, vaccine coverage inputs and data used to estimate the mean age of first severe infection are not included in this repository. The code for the regression model used to estimate the mean age of infection is shown in this repository.
